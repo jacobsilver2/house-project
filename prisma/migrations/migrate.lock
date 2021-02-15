@@ -1,0 +1,4 @@
+# Prisma Migrate lockfile v1
+
+20210131015856-create-houses
+20210202222803-added-address-to-house
